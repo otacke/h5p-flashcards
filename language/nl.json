@@ -107,19 +107,13 @@
       "description": "Tekst die wordt gebruikt door ondersteunende technologieën. Gebruik @answer als variabele."
     },
     {
-<<<<<<< HEAD
       "label": "Kaart wijzigen voor ondersteunende technologieën",
       "default": "Pagina @current van @total",
       "description": "Tekst die wordt gebruikt door ondersteunende technologieën als van kaart wordt gewisseld. Gebruik @current en @total als variabelen."
-=======
-      "label": "Card change for assistive technologies",
-      "default": "Page @current of @total",
-      "description": "Text that will be announced to assistive technologies when navigating between cards. Use @current and @total as variables."
     },
     {
       "label": "Kaarten in willekeurige volgorde",
       "description": "Schakel in om de kaarten in willekeurige volgorde te tonen."
->>>>>>> Add option to randomize cards
     }
   ]
 }
